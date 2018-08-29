@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/mCamera"
+        android:icon="@drawable/ic_launcher_background"
+        android:title="Camera" />
+    <item android:id="@+id/mGallery"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Gallery" />
+    <item android:id="@+id/mAddTxt"
+        android:icon="@mipmap/ic_launcher_round"
+        android:title="Add Text" />
+    <item android:id="@+id/mFilter"
+        android:icon="@mipmap/ic_launcher_round"
+        android:title="Filters"/>
+
+</menu>
